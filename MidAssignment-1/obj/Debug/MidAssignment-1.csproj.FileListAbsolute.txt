@@ -1,0 +1,2 @@
+C:\Users\Windows 10\Desktop\prog.L\C#\MidAssignment-1\MidAssignment-1\obj\Debug\MidAssignment-1.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\prog.L\C#\MidAssignment-1\MidAssignment-1\obj\Debug\MidAssignment-1.csproj.CoreCompileInputs.cache
